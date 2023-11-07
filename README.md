@@ -17,3 +17,10 @@ Ej.- cd ../../
 
 - 00-Rectangulo (```cd assignments/00-Rectangulo```)
 - 01-Rectanguloplus (```cd assignments/01-Rectanguloplus```)
+
+# Navegación - Home
+Para regresar al Home del repositorio, use:
+```
+cd /workspaces/TC1033.*
+```
+
