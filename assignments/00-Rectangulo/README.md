@@ -1,4 +1,4 @@
-# Ejercicio - Hello World
+# Ejercicio - Rectángulo
 
 Este proyecto tiene la estructura básica para cualquier proyecto C++. 
 
